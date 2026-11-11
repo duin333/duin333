@@ -3,7 +3,7 @@
 <!-- Replace this header with your own pixel-art banner later: assets/pixel-banner.png -->
 <div align="center">
   <img
-    src="./assets/pixel-developer.gif"
+    src="./assets/pixel-developer-v2.gif"
     alt="Pixel Art Developer - Coding Animation"
     width="100%"
   />
