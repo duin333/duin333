@@ -56,7 +56,7 @@ Currently exploring **Cloud Computing, CI/CD, AI integration and Web3**.
 | :--- | :--- | :--- |
 | **[ComicHub](https://github.com/duin333/comichub)** | Comic reading platform integrating an AI chatbot for search and content discovery. | ASP.NET Core · C# · REST API · MySQL |
 | **[FoodGo](https://github.com/duin333/foodgo)** | Android food ordering application with collaborative group ordering capabilities under development. | Kotlin · Android |
-| **[Music Box](https://github.com/duin333/karaoke-music-box-management-system)** | Karaoke management system with role-based access, room management, flexible pricing and F&B ordering. | Java · JSP/Servlet · MySQL |
+| **[MusicBox](https://github.com/duin333/karaoke-music-box-management-system)** | Karaoke management system with role-based access, room management, flexible pricing and F&B ordering. | Java · JSP/Servlet · MySQL |
 
 > Projects are being refined. Public demos will be linked once available.
 
